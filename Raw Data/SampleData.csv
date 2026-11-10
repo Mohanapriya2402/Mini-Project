@@ -1,0 +1,501 @@
+order_id,order_date,customer_name,gender,city,state,product_name,product_category,quantity,unit_price,discount_percent,sales_amount,payment_method,order_status,sales_channel
+ORD-0001,05-01-2023,John Smith,Male,New York,New York,Wireless Bluetooth Headphones,Electronics,2,129.99,10,233.98,Credit Card,Completed,Website
+ORD-0002,12-01-2023,Emily Johnson,Female,Los Angeles,California,Smart Fitness Watch,Electronics,1,199.99,0,199.99,Debit Card,Shipped,Mobile App
+ORD-0003,18-01-2023,Michael Williams,Male,Chicago,Illinois,Stainless Steel Water Bottle,Travel Gear,3,24.99,5,71.22,PayPal,Delivered,In-Store
+ORD-0004,25-01-2023,Sarah Brown,Female,Houston,Texas,Ergonomic Office Chair,Home & Office,1,249.99,15,212.49,Apple Pay,Processing,Website
+ORD-0005,02-02-2023,David Jones,Male,Phoenix,Arizona,Portable Power Bank 20000mAh,Electronics,2,49.99,0,99.98,Google Pay,Completed,Marketplace
+ORD-0006,09-02-2023,Jennifer Garcia,Female,Philadelphia,Pennsylvania,Mechanical Gaming Keyboard,Electronics,1,89.99,10,80.99,Credit Card,Shipped,Mobile App
+ORD-0007,15-02-2023,Robert Miller,Male,San Antonio,Texas,Noise Cancelling Earbuds,Electronics,1,159.99,20,127.99,Debit Card,Delivered,In-Store
+ORD-0008,22-02-2023,Lisa Davis,Female,San Diego,California,4K Webcam with Microphone,Electronics,1,119.99,0,119.99,PayPal,Completed,Website
+ORD-0009,01-03-2023,James Rodriguez,Male,Dallas,Texas,Smart LED Light Bulb (4-Pack),Home & Office,4,34.99,5,132.96,Apple Pay,Processing,Mobile App
+ORD-0010,08-03-2023,Patricia Martinez,Female,San Jose,California,Yoga Mat with Carrying Strap,Fitness & Sports,2,29.99,0,59.98,Google Pay,Shipped,In-Store
+ORD-0011,15-03-2023,William Hernandez,Male,Austin,Texas,Insulated Travel Mug,Travel Gear,3,22.99,10,61.87,Credit Card,Delivered,Marketplace
+ORD-0012,22-03-2023,Elizabeth Lopez,Female,Jacksonville,Florida,Laptop Stand Adjustable,Home & Office,1,45.99,0,45.99,Debit Card,Completed,Website
+ORD-0013,29-03-2023,Richard Gonzalez,Male,Fort Worth,Texas,USB-C Hub Multiport Adapter,Electronics,1,59.99,15,50.99,PayPal,Shipped,Mobile App
+ORD-0014,05-04-2023,Susan Wilson,Female,Columbus,Ohio,Wireless Charging Pad,Electronics,2,39.99,5,75.98,Apple Pay,Delivered,In-Store
+ORD-0015,12-04-2023,Joseph Anderson,Male,Charlotte,North Carolina,Bluetooth Speaker Waterproof,Electronics,1,79.99,0,79.99,Google Pay,Processing,Website
+ORD-0016,19-04-2023,John Smith,Male,New York,New York,Smart Fitness Watch,Electronics,1,199.99,10,179.99,Credit Card,Completed,Marketplace
+ORD-0017,26-04-2023,Emily Johnson,Female,Los Angeles,California,Stainless Steel Water Bottle,Travel Gear,2,24.99,0,49.98,Debit Card,Shipped,Mobile App
+ORD-0018,03-05-2023,Michael Williams,Male,Chicago,Illinois,Ergonomic Office Chair,Home & Office,1,249.99,5,237.49,PayPal,Delivered,In-Store
+ORD-0019,10-05-2023,Sarah Brown,Female,Houston,Texas,Portable Power Bank 20000mAh,Electronics,3,49.99,15,127.47,Apple Pay,Processing,Website
+ORD-0020,17-05-2023,David Jones,Male,Phoenix,Arizona,Mechanical Gaming Keyboard,Electronics,1,89.99,0,89.99,Google Pay,Completed,Mobile App
+ORD-0021,24-05-2023,Jennifer Garcia,Female,Philadelphia,Pennsylvania,Noise Cancelling Earbuds,Electronics,1,159.99,10,143.99,Credit Card,Shipped,In-Store
+ORD-0022,31-05-2023,Robert Miller,Male,San Antonio,Texas,4K Webcam with Microphone,Electronics,2,119.99,5,227.98,Debit Card,Delivered,Marketplace
+ORD-0023,07-06-2023,Lisa Davis,Female,San Diego,California,Smart LED Light Bulb (4-Pack),Home & Office,5,34.99,0,174.95,PayPal,Completed,Website
+ORD-0024,14-06-2023,James Rodriguez,Male,Dallas,Texas,Yoga Mat with Carrying Strap,Fitness & Sports,1,29.99,20,23.99,Apple Pay,Processing,Mobile App
+ORD-0025,21-06-2023,Patricia Martinez,Female,Austin,Texas,Insulated Travel Mug,Travel Gear,4,22.99,10,82.76,Google Pay,Shipped,In-Store
+ORD-0026,12-04-2023,Emily Johnson,Female,Los Angeles,California,Smart Fitness Watch,Fitness & Sports,2,149.99,10,269.98,Credit Card,Delivered,Website
+ORD-0027,15-04-2023,Michael Williams,Male,Chicago,Illinois,Stainless Steel Water Bottle,Travel Gear,3,24.99,0,74.97,Debit Card,Completed,Mobile App
+ORD-0028,18-04-2023,Sarah Brown,Female,Houston,Texas,Ergonomic Office Chair,Home & Office,1,299.99,5,284.99,PayPal,Shipped,Marketplace
+ORD-0029,21-04-2023,David Jones,Male,Phoenix,Arizona,Portable Power Bank 20000mAh,Electronics,2,59.99,15,101.98,Apple Pay,Processing,Website
+ORD-0030,24-04-2023,Jennifer Garcia,Female,Philadelphia,Pennsylvania,Mechanical Gaming Keyboard,Electronics,1,89.99,0,89.99,Google Pay,Completed,In-Store
+ORD-0031,27-04-2023,Robert Miller,Male,San Antonio,Texas,Noise Cancelling Earbuds,Electronics,2,129.99,20,207.98,Credit Card,Delivered,Mobile App
+ORD-0032,30-04-2023,Lisa Davis,Female,San Diego,California,4K Webcam with Microphone,Electronics,1,199.99,10,179.99,Debit Card,Shipped,Website
+ORD-0033,03-05-2023,James Rodriguez,Male,Dallas,Texas,Smart LED Light Bulb (4-Pack),Home & Office,5,34.99,0,174.95,PayPal,Completed,Marketplace
+ORD-0034,06-05-2023,Patricia Martinez,Female,San Jose,California,Yoga Mat with Carrying Strap,Fitness & Sports,2,29.99,5,56.98,Apple Pay,Processing,Mobile App
+ORD-0035,09-05-2023,William Hernandez,Male,Austin,Texas,Insulated Travel Mug,Travel Gear,3,19.99,0,59.97,Credit Card,Delivered,In-Store
+ORD-0036,12-05-2023,Elizabeth Lopez,Female,Jacksonville,Florida,Laptop Stand Adjustable,Home & Office,1,49.99,10,44.99,Debit Card,Completed,Website
+ORD-0037,15-05-2023,Richard Gonzalez,Male,Fort Worth,Texas,USB-C Hub Multiport Adapter,Electronics,2,39.99,15,67.98,Google Pay,Shipped,Marketplace
+ORD-0038,18-05-2023,Susan Wilson,Female,Columbus,Ohio,Wireless Charging Pad,Electronics,1,29.99,0,29.99,PayPal,Processing,Mobile App
+ORD-0039,21-05-2023,Joseph Anderson,Male,Charlotte,North Carolina,Bluetooth Speaker Waterproof,Electronics,2,79.99,5,151.98,Credit Card,Delivered,In-Store
+ORD-0040,24-05-2023,John Smith,Male,New York,New York,Wireless Bluetooth Headphones,Electronics,1,119.99,20,95.99,Apple Pay,Completed,Website
+ORD-0041,27-05-2023,Emily Johnson,Female,Los Angeles,California,Smart Fitness Watch,Fitness & Sports,3,149.99,10,404.97,Debit Card,Shipped,Mobile App
+ORD-0042,30-05-2023,Michael Williams,Male,Chicago,Illinois,Stainless Steel Water Bottle,Travel Gear,1,24.99,0,24.99,PayPal,Processing,Marketplace
+ORD-0043,02-06-2023,Sarah Brown,Female,Houston,Texas,Ergonomic Office Chair,Home & Office,1,299.99,5,284.99,Credit Card,Completed,In-Store
+ORD-0044,05-06-2023,David Jones,Male,Phoenix,Arizona,Portable Power Bank 20000mAh,Electronics,2,59.99,15,101.98,Google Pay,Delivered,Website
+ORD-0045,08-06-2023,Jennifer Garcia,Female,Philadelphia,Pennsylvania,Mechanical Gaming Keyboard,Electronics,1,89.99,0,89.99,Apple Pay,Shipped,Mobile App
+ORD-0046,11-06-2023,Robert Miller,Male,San Antonio,Texas,Noise Cancelling Earbuds,Electronics,2,129.99,20,207.98,Debit Card,Processing,Marketplace
+ORD-0047,14-06-2023,Lisa Davis,Female,San Diego,California,4K Webcam with Microphone,Electronics,1,199.99,10,179.99,PayPal,Completed,In-Store
+ORD-0048,17-06-2023,James Rodriguez,Male,Dallas,Texas,Smart LED Light Bulb (4-Pack),Home & Office,4,34.99,0,139.96,Credit Card,Shipped,Website
+ORD-0049,20-06-2023,Patricia Martinez,Female,San Jose,California,Yoga Mat with Carrying Strap,Fitness & Sports,2,29.99,5,56.98,Apple Pay,Delivered,Mobile App
+ORD-0050,23-06-2023,William Hernandez,Male,Austin,Texas,Insulated Travel Mug,Travel Gear,3,19.99,0,59.97,Debit Card,Processing,Marketplace
+ORD-0051,15-03-2023,John Smith,Male,New York,New York,Wireless Bluetooth Headphones,Electronics,2,129.99,10,233.98,Credit Card,Delivered,Website
+ORD-0052,16-03-2023,Emily Johnson,Female,Los Angeles,California,Smart Fitness Watch,Fitness & Sports,1,199.5,,199.5,PayPal,Shipped,Mobile App
+ORD-0053,17-03-2023,Michael Williams,Male,Chicago,Illinois,Stainless Steel Water Bottle,Accessories,3,24.99,5,71.22,Debit Card,Completed,In-Store
+ORD-0054,18-03-2023,Sarah Brown,Female,Houston,Texas,Ergonomic Office Chair,Home & Office,1,249.99,20,199.99,Apple Pay,Processing,Website
+ORD-0055,19-03-2023,David Jones,Non-binary,Phoenix,Arizona,Portable Power Bank 20000mAh,Electronics,2,45,,90,Google Pay,Delivered,Marketplace
+ORD-0056,20-03-2023,Jennifer Garcia,Female,Philadelphia,Pennsylvania,Mechanical Gaming Keyboard,Electronics,1,89.99,15,76.49,Credit Card,Shipped,Mobile App
+ORD-0057,21-03-2023,Robert Miller,Male,San Antonio,Texas,Noise Cancelling Earbuds,Electronics,1,159,,159,Bank Transfer,Completed,In-Store
+ORD-0058,22-03-2023,Lisa Davis,Female,San Diego,California,4K Webcam with Microphone,Electronics,1,119.99,10,107.99,Debit Card,Cancelled,Website
+ORD-0059,23-03-2023,James Rodriguez,Male,Dallas,Texas,Smart LED Light Bulb (4-Pack),Home & Office,4,35.5,5,134.9,Cash on Delivery,Refunded,Social Media
+ORD-0060,24-03-2023,Patricia Martinez,Female,San Jose,California,Yoga Mat with Carrying Strap,Fitness & Sports,1,29.99,,29.99,PayPal,Delivered,Mobile App
+ORD-0061,25-03-2023,William Hernandez,Male,Austin,Texas,Insulated Travel Mug,Travel Gear,2,22.5,10,40.5,Credit Card,Shipped,Website
+ORD-0062,26-03-2023,Elizabeth Lopez,Female,Jacksonville,Florida,Laptop Stand Adjustable,Home & Office,1,49.99,,49.99,Apple Pay,Completed,In-Store
+ORD-0063,27-03-2023,Richard Gonzalez,Male,Fort Worth,Texas,USB-C Hub Multiport Adapter,Electronics,1,39.99,20,31.99,Debit Card,Processing,Marketplace
+ORD-0064,28-03-2023,Susan Wilson,Female,Columbus,Ohio,Wireless Charging Pad,Electronics,3,25,5,71.25,Google Pay,Shipped,Mobile App
+ORD-0065,29-03-2023,Joseph Anderson,Male,Charlotte,North Carolina,Bluetooth Speaker Waterproof,Electronics,1,79.99,,79.99,Credit Card,Delivered,Website
+ORD-0066,30-03-2023,John Smith,Female,New York,New York,Smart Fitness Watch,Fitness & Sports,1,199.5,10,179.55,PayPal,Completed,In-Store
+ORD-0067,31-03-2023,Emily Johnson,Male,Los Angeles,California,Stainless Steel Water Bottle,Accessories,2,24.99,,49.98,Debit Card,Shipped,Mobile App
+ORD-0068,01-04-2023,Michael Williams,Female,Chicago,Illinois,Ergonomic Office Chair,Home & Office,1,249.99,15,212.49,Apple Pay,Delivered,Website
+ORD-0069,02-04-2023,Sarah Brown,Non-binary,Houston,Texas,Portable Power Bank 20000mAh,Electronics,1,45,,45,Bank Transfer,Processing,Marketplace
+ORD-0070,03-04-2023,David Jones,Male,Phoenix,Arizona,Mechanical Gaming Keyboard,Electronics,1,89.99,5,85.49,Credit Card,Shipped,Mobile App
+ORD-0071,04-04-2023,Jennifer Garcia,Female,Philadelphia,Pennsylvania,Noise Cancelling Earbuds,Electronics,2,159,,318,Debit Card,Completed,In-Store
+ORD-0072,05-04-2023,Robert Miller,Male,San Antonio,Texas,4K Webcam with Microphone,Electronics,1,119.99,20,95.99,Google Pay,Cancelled,Website
+ORD-0073,06-04-2023,Lisa Davis,Female,San Diego,California,Smart LED Light Bulb (4-Pack),Home & Office,3,35.5,,106.5,PayPal,Refunded,Social Media
+ORD-0074,07-04-2023,James Rodriguez,Male,Dallas,Texas,Yoga Mat with Carrying Strap,Fitness & Sports,1,29.99,10,26.99,Credit Card,Delivered,Mobile App
+ORD-0075,08-04-2023,Patricia Martinez,Female,San Jose,California,Insulated Travel Mug,Travel Gear,2,22.5,,45,Apple Pay,Shipped,Website
+ORD-0076,15-03-2023,John Smith,Male,New York,New York,Wireless Bluetooth Headphones,Electronics,2,149.99,10,269.98,Credit Card,Completed,Website
+ORD-0077,22-04-2023,Emily Johnson,Female,Los Angeles,California,Smart Fitness Watch,Electronics,1,299.99,,299.99,Apple Pay,Shipped,Mobile App
+ORD-0078,10-05-2023,Michael Williams,Male,Chicago,Illinois,Stainless Steel Water Bottle,Accessories,5,24.99,5,118.7,Debit Card,Delivered,In-Store
+ORD-0079,18-06-2023,Sarah Brown,Female,Houston,Texas,Ergonomic Office Chair,Home & Office,1,349.99,15,297.49,PayPal,Processing,Website
+ORD-0080,05-07-2023,David Jones,Male,Phoenix,Arizona,Portable Power Bank 20000mAh,Electronics,3,59.99,,179.97,Credit Card,Completed,Marketplace
+ORD-0081,12-08-2023,Jennifer Garcia,Female,Philadelphia,Pennsylvania,Mechanical Gaming Keyboard,Electronics,1,129.99,20,103.99,Google Pay,Shipped,Mobile App
+ORD-0082,20-09-2023,Robert Miller,Male,San Antonio,Texas,Noise Cancelling Earbuds,Electronics,2,199.99,10,359.98,Credit Card,Delivered,Website
+ORD-0083,08-10-2023,Lisa Davis,Female,San Diego,California,4K Webcam with Microphone,Electronics,1,89.99,,89.99,Bank Transfer,Completed,In-Store
+ORD-0084,14-11-2023,James Rodriguez,Male,Dallas,Texas,Smart LED Light Bulb (4-Pack),Home & Office,4,39.99,5,151.96,Debit Card,Shipped,Mobile App
+ORD-0085,01-12-2023,Patricia Martinez,Female,San Jose,California,Yoga Mat with Carrying Strap,Fitness & Sports,2,45,10,81,Credit Card,Processing,Website
+ORD-0086,10-01-2024,William Hernandez,Male,Austin,Texas,Insulated Travel Mug,Travel Gear,3,29.99,,89.97,Apple Pay,Delivered,Marketplace
+ORD-0087,15-02-2024,Elizabeth Lopez,Female,Jacksonville,Florida,Laptop Stand Adjustable,Home & Office,1,79.99,15,67.99,PayPal,Completed,In-Store
+ORD-0088,22-03-2024,Richard Gonzalez,Male,Fort Worth,Texas,USB-C Hub Multiport Adapter,Electronics,2,49.99,5,94.98,Credit Card,Shipped,Mobile App
+ORD-0089,05-04-2024,Susan Wilson,Female,Columbus,Ohio,Wireless Charging Pad,Electronics,1,34.99,,34.99,Debit Card,Processing,Website
+ORD-0090,12-05-2024,Joseph Anderson,Male,Charlotte,North Carolina,Bluetooth Speaker Waterproof,Electronics,2,119.99,20,191.98,Google Pay,Delivered,Marketplace
+ORD-0091,18-06-2024,John Smith,Male,New York,New York,Wireless Bluetooth Headphones,Electronics,1,149.99,10,134.99,Credit Card,Completed,In-Store
+ORD-0092,25-07-2024,Emily Johnson,Female,Los Angeles,California,Smart Fitness Watch,Electronics,3,299.99,,899.97,Apple Pay,Shipped,Mobile App
+ORD-0093,08-08-2024,Michael Williams,Male,Chicago,Illinois,Stainless Steel Water Bottle,Accessories,2,24.99,5,47.48,Debit Card,Delivered,Website
+ORD-0094,14-09-2024,Sarah Brown,Female,Houston,Texas,Ergonomic Office Chair,Home & Office,1,349.99,15,297.49,PayPal,Processing,Marketplace
+ORD-0095,20-10-2024,David Jones,Male,Phoenix,Arizona,Portable Power Bank 20000mAh,Electronics,4,59.99,10,215.96,Credit Card,Completed,In-Store
+ORD-0096,05-11-2024,Jennifer Garcia,Female,Philadelphia,Pennsylvania,Mechanical Gaming Keyboard,Electronics,1,129.99,20,103.99,Google Pay,Shipped,Mobile App
+ORD-0097,28-11-2024,Robert Miller,Male,San Antonio,Texas,Noise Cancelling Earbuds,Electronics,2,199.99,10,359.98,Credit Card,Delivered,Website
+ORD-0098,10-12-2024,Lisa Davis,Female,San Diego,California,4K Webcam with Microphone,Electronics,1,89.99,,89.99,Bank Transfer,Processing,In-Store
+ORD-0099,22-12-2024,James Rodriguez,Male,Dallas,Texas,Smart LED Light Bulb (4-Pack),Home & Office,5,39.99,5,189.95,Debit Card,Completed,Marketplace
+ORD-0100,30-12-2024,Patricia Martinez,Female,San Jose,California,Yoga Mat with Carrying Strap,Fitness & Sports,1,45,10,40.5,Credit Card,Cancelled,Mobile App
+ORD-0101,15-03-2023,John Smith,Male,New York,New York,Wireless Bluetooth Headphones,Electronics,2,129.99,10,233.98,Credit Card,Completed,Website
+ORD-0102,22-04-2023,Emily Johnson,Female,Los Angeles,California,Smart Fitness Watch,Electronics,1,199.99,0,199.99,Debit Card,Shipped,Mobile App
+ORD-0103,10-05-2023,Michael Williams,Male,Chicago,Illinois,Stainless Steel Water Bottle,Travel Gear,5,24.99,5,118.7,PayPal,Delivered,In-Store
+ORD-0104,05-06-2023,Sarah Brown,Female,Houston,Texas,Ergonomic Office Chair,Home & Office,1,299.99,15,254.99,Apple Pay,Processing,Website
+ORD-0105,18-07-2023,David Jones,Male,Phoenix,Arizona,Portable Power Bank 20000mAh,Accessories,3,49.99,0,149.97,Google Pay,Completed,Marketplace
+ORD-0106,29-08-2023,Jennifer Garcia,Female,Philadelphia,Pennsylvania,Mechanical Gaming Keyboard,Electronics,1,89.99,20,71.99,Bank Transfer,Shipped,Mobile App
+ORD-0107,12-09-2023,Robert Miller,Male,San Antonio,Texas,Noise Cancelling Earbuds,Electronics,2,159.99,10,287.98,Credit Card,Delivered,Website
+ORD-0108,03-10-2023,Lisa Davis,Female,San Diego,California,4K Webcam with Microphone,Electronics,1,129.99,,129.99,Debit Card,Cancelled,In-Store
+ORD-0109,20-11-2023,James Rodriguez,Male,Dallas,Texas,Smart LED Light Bulb (4-Pack),Home & Office,4,34.99,5,133,PayPal,Completed,Mobile App
+ORD-0110,08-12-2023,Patricia Martinez,Female,San Jose,California,Yoga Mat with Carrying Strap,Fitness & Sports,2,29.99,0,59.98,Apple Pay,Shipped,Website
+ORD-0111,14-01-2024,William Hernandez,Male,Austin,Texas,Insulated Travel Mug,Travel Gear,6,19.99,10,107.95,Google Pay,Delivered,Marketplace
+ORD-0112,25-02-2024,Elizabeth Lopez,Female,Jacksonville,Florida,Laptop Stand Adjustable,Home & Office,1,45.99,15,39.09,Bank Transfer,Processing,In-Store
+ORD-0113,11-03-2024,Richard Gonzalez,Male,Fort Worth,Texas,USB-C Hub Multiport Adapter,Electronics,2,39.99,0,79.98,Credit Card,Completed,Mobile App
+ORD-0114,05-04-2024,Susan Wilson,Female,Columbus,Ohio,Wireless Charging Pad,Accessories,3,29.99,5,85.47,Debit Card,Shipped,Website
+ORD-0115,19-05-2024,Joseph Anderson,Male,Charlotte,North Carolina,Bluetooth Speaker Waterproof,Electronics,1,79.99,25,59.99,PayPal,Delivered,Marketplace
+ORD-0116,02-06-2024,John Smith,Female,New York,New York,Smart Fitness Watch,Electronics,1,199.99,10,179.99,Apple Pay,Refunded,In-Store
+ORD-0117,15-07-2024,Emily Johnson,Male,Los Angeles,California,Stainless Steel Water Bottle,Travel Gear,4,24.99,0,99.96,Google Pay,Completed,Mobile App
+ORD-0118,22-08-2024,Michael Williams,Female,Chicago,Illinois,Ergonomic Office Chair,Home & Office,1,299.99,20,239.99,Bank Transfer,Shipped,Website
+ORD-0119,10-09-2024,Sarah Brown,Male,Houston,Texas,Portable Power Bank 20000mAh,Accessories,2,49.99,5,94.98,Credit Card,Delivered,Marketplace
+ORD-0120,01-10-2024,David Jones,Female,Phoenix,Arizona,Mechanical Gaming Keyboard,Electronics,1,89.99,,89.99,Debit Card,Processing,In-Store
+ORD-0121,28-10-2024,Jennifer Garcia,Male,Philadelphia,Pennsylvania,Noise Cancelling Earbuds,Electronics,3,159.99,15,407.97,PayPal,Completed,Mobile App
+ORD-0122,14-11-2024,Robert Miller,Female,San Antonio,Texas,4K Webcam with Microphone,Electronics,1,129.99,10,116.99,Apple Pay,Shipped,Website
+ORD-0123,30-11-2024,Lisa Davis,Male,San Diego,California,Smart LED Light Bulb (4-Pack),Home & Office,5,34.99,0,174.95,Google Pay,Delivered,Marketplace
+ORD-0124,05-12-2024,James Rodriguez,Female,Dallas,Texas,Yoga Mat with Carrying Strap,Fitness & Sports,2,29.99,20,47.98,Bank Transfer,Cancelled,In-Store
+ORD-0125,20-12-2024,Patricia Martinez,Male,San Jose,California,Insulated Travel Mug,Travel Gear,3,19.99,5,56.97,Credit Card,Completed,Mobile App
+ORD-0126,15-03-2023,John Smith,Male,New York,New York,Wireless Bluetooth Headphones,Electronics,2,149.99,10,269.98,Credit Card,Completed,Website
+ORD-0127,22-04-2023,Emily Johnson,Female,Los Angeles,California,Smart Fitness Watch,Electronics,1,299.99,5,284.99,Apple Pay,Shipped,Mobile App
+ORD-0128,10-05-2023,Michael Williams,Male,Chicago,Illinois,Stainless Steel Water Bottle,Accessories,3,25,0,75,Debit Card,Delivered,In-Store
+ORD-0129,18-06-2023,Sarah Brown,Female,Houston,Texas,Ergonomic Office Chair,Home & Office,1,349.99,15,297.49,Credit Card,Processing,Website
+ORD-0130,05-07-2023,David Jones,Male,Phoenix,Arizona,Portable Power Bank 20000mAh,Electronics,2,59.99,0,119.98,PayPal,Completed,Marketplace
+ORD-0131,12-08-2023,Jennifer Garcia,Female,Philadelphia,Pennsylvania,Mechanical Gaming Keyboard,Electronics,1,129.99,20,103.99,Google Pay,Shipped,Mobile App
+ORD-0132,01-09-2023,Robert Miller,Male,San Antonio,Texas,Noise Cancelling Earbuds,Electronics,1,199.99,10,179.99,Credit Card,Delivered,Website
+ORD-0133,14-10-2023,Lisa Davis,Female,San Diego,California,4K Webcam with Microphone,Electronics,1,159.99,0,159.99,Debit Card,Cancelled,In-Store
+ORD-0134,20-11-2023,James Rodriguez,Male,Dallas,Texas,Smart LED Light Bulb (4-Pack),Home & Office,4,39.99,5,151.96,Apple Pay,Refunded,Mobile App
+ORD-0135,05-12-2023,Patricia Martinez,Female,San Jose,California,Yoga Mat with Carrying Strap,Fitness & Sports,2,45,0,90,Credit Card,Completed,Website
+ORD-0136,10-01-2024,William Hernandez,Male,Austin,Texas,Insulated Travel Mug,Accessories,3,35,10,94.5,PayPal,Shipped,Marketplace
+ORD-0137,14-02-2024,Elizabeth Lopez,Female,Jacksonville,Florida,Laptop Stand Adjustable,Home & Office,1,79.99,15,67.99,Google Pay,Delivered,Mobile App
+ORD-0138,22-03-2024,Richard Gonzalez,Male,Fort Worth,Texas,USB-C Hub Multiport Adapter,Electronics,2,49.99,0,99.98,Debit Card,Processing,Website
+ORD-0139,05-04-2024,Susan Wilson,Female,Columbus,Ohio,Wireless Charging Pad,Electronics,1,39.99,5,37.99,Credit Card,Completed,In-Store
+ORD-0140,18-05-2024,Joseph Anderson,Male,Charlotte,North Carolina,Bluetooth Speaker Waterproof,Electronics,1,89.99,20,71.99,Apple Pay,Shipped,Mobile App
+ORD-0141,25-06-2024,John Smith,Female,New York,New York,Smart Fitness Watch,Electronics,1,299.99,0,299.99,PayPal,Delivered,Website
+ORD-0142,12-07-2024,Emily Johnson,Male,Los Angeles,California,Stainless Steel Water Bottle,Accessories,2,25,10,45,Debit Card,Cancelled,Marketplace
+ORD-0143,30-08-2024,Michael Williams,Female,Chicago,Illinois,Ergonomic Office Chair,Home & Office,1,349.99,5,332.49,Credit Card,Refunded,In-Store
+ORD-0144,15-09-2024,Sarah Brown,Male,Houston,Texas,Portable Power Bank 20000mAh,Electronics,1,59.99,0,59.99,Google Pay,Completed,Mobile App
+ORD-0145,08-10-2024,David Jones,Female,Phoenix,Arizona,Mechanical Gaming Keyboard,Electronics,2,129.99,15,220.98,Apple Pay,Shipped,Website
+ORD-0146,20-11-2024,Jennifer Garcia,Male,Philadelphia,Pennsylvania,Noise Cancelling Earbuds,Electronics,1,199.99,10,179.99,Credit Card,Delivered,Marketplace
+ORD-0147,01-12-2024,Robert Miller,Female,San Antonio,Texas,4K Webcam with Microphone,Electronics,1,159.99,20,127.99,PayPal,Processing,In-Store
+ORD-0148,10-12-2024,Lisa Davis,Male,San Diego,California,Smart LED Light Bulb (4-Pack),Home & Office,5,39.99,0,199.95,Debit Card,Completed,Mobile App
+ORD-0149,15-12-2024,James Rodriguez,Female,Dallas,Texas,Yoga Mat with Carrying Strap,Fitness & Sports,1,45,5,42.75,Credit Card,Shipped,Website
+ORD-0150,20-12-2024,Patricia Martinez,Male,San Jose,California,Insulated Travel Mug,Accessories,2,35,10,63,Apple Pay,Delivered,Marketplace
+ORD-0151,15-03-2023,John Smith,Male,New York,New York,Wireless Bluetooth Headphones,Electronics,2,125,10,225,Credit Card,Delivered,Website
+ORD-0152,16-03-2023,Emily Johnson,Female,Los Angeles,California,Smart Fitness Watch,Electronics,1,199.99,0,199.99,Debit Card,Completed,Mobile App
+ORD-0153,17-03-2023,Michael Williams,Male,Chicago,Illinois,Stainless Steel Water Bottle,Accessories,5,24.99,15,106.21,PayPal,Shipped,Website
+ORD-0154,18-03-2023,Sarah Brown,Female,Houston,Texas,Ergonomic Office Chair,Home & Office,1,249.99,5,237.49,Apple Pay,Processing,In-Store
+ORD-0155,19-03-2023,David Jones,Male,Phoenix,Arizona,Portable Power Bank 20000mAh,Electronics,3,45,,135,Google Pay,Delivered,Marketplace
+ORD-0156,20-03-2023,Jennifer Garcia,Female,Philadelphia,Pennsylvania,Mechanical Gaming Keyboard,Electronics,1,89.99,20,71.99,Credit Card,Completed,Website
+ORD-0157,21-03-2023,Robert Miller,Male,San Antonio,Texas,Noise Cancelling Earbuds,Electronics,2,159.99,12,281.58,Debit Card,Shipped,Mobile App
+ORD-0158,22-03-2023,Lisa Davis,Female,San Diego,California,4K Webcam with Microphone,Electronics,1,129.99,,129.99,Bank Transfer,Processing,In-Store
+ORD-0159,23-03-2023,James Rodriguez,Male,Dallas,Texas,Smart LED Light Bulb (4-Pack),Home & Office,4,35,10,126,Apple Pay,Delivered,Website
+ORD-0160,24-03-2023,Patricia Martinez,Female,San Jose,California,Yoga Mat with Carrying Strap,Fitness & Sports,2,29.99,5,56.98,Credit Card,Completed,Mobile App
+ORD-0161,25-03-2023,William Hernandez,Male,Austin,Texas,Insulated Travel Mug,Travel Gear,3,18.5,,55.5,Debit Card,Shipped,Marketplace
+ORD-0162,26-03-2023,Elizabeth Lopez,Female,Jacksonville,Florida,Laptop Stand Adjustable,Home & Office,1,49.99,25,37.49,Google Pay,Processing,In-Store
+ORD-0163,27-03-2023,Richard Gonzalez,Male,Fort Worth,Texas,USB-C Hub Multiport Adapter,Electronics,2,39.99,15,67.98,Credit Card,Delivered,Website
+ORD-0164,28-03-2023,Susan Wilson,Female,Columbus,Ohio,Bluetooth Speaker Waterproof,Electronics,1,79.99,,79.99,PayPal,Completed,Mobile App
+ORD-0165,29-03-2023,Joseph Anderson,Male,Charlotte,North Carolina,Wireless Bluetooth Headphones,Electronics,1,125,10,112.5,Debit Card,Shipped,In-Store
+ORD-0166,30-03-2023,John Smith,Male,New York,New York,Smart Fitness Watch,Electronics,2,199.99,5,379.98,Apple Pay,Processing,Marketplace
+ORD-0167,31-03-2023,Emily Johnson,Female,Los Angeles,California,Stainless Steel Water Bottle,Accessories,4,24.99,,99.96,Credit Card,Delivered,Website
+ORD-0168,01-04-2023,Michael Williams,Male,Chicago,Illinois,Ergonomic Office Chair,Home & Office,1,249.99,20,199.99,Debit Card,Completed,Mobile App
+ORD-0169,02-04-2023,Sarah Brown,Female,Houston,Texas,Portable Power Bank 20000mAh,Electronics,3,45,10,121.5,Google Pay,Shipped,In-Store
+ORD-0170,03-04-2023,David Jones,Male,Phoenix,Arizona,Mechanical Gaming Keyboard,Electronics,1,89.99,,89.99,Bank Transfer,Processing,Marketplace
+ORD-0171,04-04-2023,Jennifer Garcia,Female,Philadelphia,Pennsylvania,Noise Cancelling Earbuds,Electronics,2,159.99,15,271.98,Credit Card,Delivered,Website
+ORD-0172,05-04-2023,Robert Miller,Male,San Antonio,Texas,4K Webcam with Microphone,Electronics,1,129.99,5,123.49,Debit Card,Completed,Mobile App
+ORD-0173,06-04-2023,Lisa Davis,Female,San Diego,California,Smart LED Light Bulb (4-Pack),Home & Office,5,35,,175,Apple Pay,Shipped,In-Store
+ORD-0174,07-04-2023,James Rodriguez,Male,Dallas,Texas,Yoga Mat with Carrying Strap,Fitness & Sports,1,29.99,25,22.49,Credit Card,Processing,Marketplace
+ORD-0175,08-04-2023,Patricia Martinez,Female,San Jose,California,Insulated Travel Mug,Travel Gear,2,18.5,10,33.3,Debit Card,Delivered,Website
+ORD-0176,15-06-2023,John Smith,Male,New York,New York,Wireless Bluetooth Headphones,Electronics,2,125.5,10,225.9,Credit Card,Delivered,Website
+ORD-0177,16-06-2023,Emily Johnson,Female,Los Angeles,California,Smart Fitness Watch,Electronics,1,199.99,5,189.99,Apple Pay,Shipped,Mobile App
+ORD-0178,17-06-2023,Michael Williams,Male,Chicago,Illinois,Stainless Steel Water Bottle,Travel Gear,3,24.99,,74.97,Debit Card,Completed,In-Store
+ORD-0179,18-06-2023,Sarah Brown,Female,Houston,Texas,Ergonomic Office Chair,Home & Office,1,299,15,254.15,PayPal,Processing,Website
+ORD-0180,19-06-2023,David Jones,Male,Phoenix,Arizona,Portable Power Bank 20000mAh,Electronics,2,45,0,90,Google Pay,Delivered,Marketplace
+ORD-0181,20-06-2023,Jennifer Garcia,Female,Philadelphia,Pennsylvania,Mechanical Gaming Keyboard,Electronics,1,89.99,20,71.99,Credit Card,Shipped,Website
+ORD-0182,21-06-2023,Robert Miller,Male,San Antonio,Texas,Noise Cancelling Earbuds,Electronics,1,149.5,12.5,130.81,Bank Transfer,Completed,Mobile App
+ORD-0183,22-06-2023,Lisa Davis,Female,San Diego,California,4K Webcam with Microphone,Electronics,1,79.99,,79.99,Apple Pay,Delivered,In-Store
+ORD-0184,23-06-2023,James Rodriguez,Male,Dallas,Texas,Smart LED Light Bulb (4-Pack),Home & Office,5,15,10,67.5,Debit Card,Processing,Website
+ORD-0185,24-06-2023,Patricia Martinez,Female,San Jose,California,Yoga Mat with Carrying Strap,Fitness & Sports,2,35,5,66.5,Credit Card,Shipped,Marketplace
+ORD-0186,25-06-2023,William Hernandez,Male,Austin,Texas,Insulated Travel Mug,Travel Gear,4,22.5,0,90,Google Pay,Completed,Mobile App
+ORD-0187,26-06-2023,Elizabeth Lopez,Female,Jacksonville,Florida,Laptop Stand Adjustable,Home & Office,1,49.99,25,37.49,PayPal,Delivered,Website
+ORD-0188,27-06-2023,Richard Gonzalez,Male,Fort Worth,Texas,USB-C Hub Multiport Adapter,Electronics,2,39.99,10,71.98,Credit Card,Processing,In-Store
+ORD-0189,28-06-2023,Susan Wilson,Female,Columbus,Ohio,Wireless Charging Pad,Electronics,3,29.99,15,76.47,Apple Pay,Shipped,Mobile App
+ORD-0190,29-06-2023,Joseph Anderson,Male,Charlotte,North Carolina,Bluetooth Speaker Waterproof,Electronics,1,59.99,,59.99,Debit Card,Completed,Marketplace
+ORD-0191,30-06-2023,John Smith,Male,New York,New York,Wireless Bluetooth Headphones,Electronics,1,125.5,5,119.23,Credit Card,Delivered,Website
+ORD-0192,01-07-2023,Emily Johnson,Female,Los Angeles,California,Smart Fitness Watch,Electronics,2,199.99,10,359.98,Apple Pay,Shipped,Mobile App
+ORD-0193,02-07-2023,Michael Williams,Male,Chicago,Illinois,Stainless Steel Water Bottle,Travel Gear,1,24.99,0,24.99,Debit Card,Completed,In-Store
+ORD-0194,03-07-2023,Sarah Brown,Female,Houston,Texas,Ergonomic Office Chair,Home & Office,1,299,20,239.2,PayPal,Processing,Website
+ORD-0195,04-07-2023,David Jones,Male,Phoenix,Arizona,Portable Power Bank 20000mAh,Electronics,1,45,5,42.75,Google Pay,Delivered,Marketplace
+ORD-0196,05-07-2023,Jennifer Garcia,Female,Philadelphia,Pennsylvania,Mechanical Gaming Keyboard,Electronics,2,89.99,15,152.98,Credit Card,Shipped,Website
+ORD-0197,06-07-2023,Robert Miller,Male,San Antonio,Texas,Noise Cancelling Earbuds,Electronics,1,149.5,0,149.5,Bank Transfer,Completed,Mobile App
+ORD-0198,07-07-2023,Lisa Davis,Female,San Diego,California,4K Webcam with Microphone,Electronics,1,79.99,10,71.99,Apple Pay,Delivered,In-Store
+ORD-0199,08-07-2023,James Rodriguez,Male,Dallas,Texas,Smart LED Light Bulb (4-Pack),Home & Office,3,15,5,42.75,Debit Card,Processing,Website
+ORD-0200,09-07-2023,Patricia Martinez,Female,San Jose,California,Yoga Mat with Carrying Strap,Fitness & Sports,1,35,20,28,Credit Card,Shipped,Marketplace
+ORD-0201,15-03-2024,John Smith,Male,New York,New York,Wireless Bluetooth Headphones,Electronics,2,125.5,10,225.9,Credit Card,Delivered,Website
+ORD-0202,22-04-2024,Emily Johnson,Female,Los Angeles,California,Smart Fitness Watch,Fitness & Sports,1,199.99,0,199.99,Apple Pay,Shipped,Mobile App
+ORD-0203,10-05-2024,Michael Williams,Male,Chicago,Illinois,Stainless Steel Water Bottle,Accessories,3,29.95,5,85.36,Debit Card,Completed,In-Store
+ORD-0204,18-06-2024,Sarah Brown,Female,Houston,Texas,Ergonomic Office Chair,Home & Office,1,249.99,15,212.49,PayPal,Processing,Website
+ORD-0205,05-07-2024,David Jones,Male,Phoenix,Arizona,Portable Power Bank 20000mAh,Electronics,2,45,0,90,Google Pay,Delivered,Marketplace
+ORD-0206,12-08-2024,Jennifer Garcia,Female,Philadelphia,Pennsylvania,Mechanical Gaming Keyboard,Electronics,1,89.99,20,71.99,Credit Card,Shipped,Mobile App
+ORD-0207,20-09-2024,Robert Miller,Male,San Antonio,Texas,Noise Cancelling Earbuds,Electronics,1,159.99,10,143.99,Apple Pay,Completed,Website
+ORD-0208,08-10-2024,Lisa Davis,Female,San Diego,California,4K Webcam with Microphone,Electronics,1,129.99,0,129.99,Debit Card,Cancelled,In-Store
+ORD-0209,15-11-2024,James Rodriguez,Male,Dallas,Texas,Smart LED Light Bulb (4-Pack),Home & Office,4,35,5,133,PayPal,Delivered,Website
+ORD-0210,01-12-2024,Patricia Martinez,Female,San Jose,California,Yoga Mat with Carrying Strap,Fitness & Sports,2,25.5,0,51,Credit Card,Shipped,Mobile App
+ORD-0211,20-01-2023,William Hernandez,Male,Austin,Texas,Insulated Travel Mug,Travel Gear,3,18.99,10,51.27,Google Pay,Completed,Marketplace
+ORD-0212,14-02-2023,Elizabeth Lopez,Female,Jacksonville,Florida,Laptop Stand Adjustable,Home & Office,1,49.99,0,49.99,Apple Pay,Processing,Website
+ORD-0213,22-03-2023,Richard Gonzalez,Male,Fort Worth,Texas,USB-C Hub Multiport Adapter,Electronics,2,39.95,15,67.92,Debit Card,Shipped,Mobile App
+ORD-0214,10-04-2023,Susan Wilson,Female,Columbus,Ohio,Bluetooth Speaker Waterproof,Electronics,1,79.99,0,79.99,PayPal,Delivered,In-Store
+ORD-0215,18-05-2023,Joseph Anderson,Male,Charlotte,North Carolina,Wireless Bluetooth Headphones,Electronics,1,125.5,5,119.23,Credit Card,Completed,Website
+ORD-0216,25-06-2023,John Smith,Female,New York,New York,Smart Fitness Watch,Fitness & Sports,2,199.99,10,359.98,Apple Pay,Shipped,Mobile App
+ORD-0217,12-07-2023,Emily Johnson,Male,Los Angeles,California,Stainless Steel Water Bottle,Accessories,1,29.95,0,29.95,Debit Card,Delivered,Marketplace
+ORD-0218,30-08-2023,Michael Williams,Female,Chicago,Illinois,Ergonomic Office Chair,Home & Office,1,249.99,20,199.99,PayPal,Processing,Website
+ORD-0219,05-09-2023,Sarah Brown,Male,Houston,Texas,Portable Power Bank 20000mAh,Electronics,3,45,0,135,Google Pay,Shipped,Mobile App
+ORD-0220,18-10-2023,David Jones,Female,Phoenix,Arizona,Mechanical Gaming Keyboard,Electronics,1,89.99,10,80.99,Credit Card,Completed,In-Store
+ORD-0221,22-11-2023,Jennifer Garcia,Male,Philadelphia,Pennsylvania,Noise Cancelling Earbuds,Electronics,2,159.99,5,303.98,Apple Pay,Delivered,Website
+ORD-0222,10-12-2023,Robert Miller,Female,San Antonio,Texas,4K Webcam with Microphone,Electronics,1,129.99,0,129.99,Debit Card,Refunded,Marketplace
+ORD-0223,05-01-2024,Lisa Davis,Male,San Diego,California,Smart LED Light Bulb (4-Pack),Home & Office,5,35,15,148.75,PayPal,Shipped,Mobile App
+ORD-0224,14-02-2024,James Rodriguez,Female,Dallas,Texas,Yoga Mat with Carrying Strap,Fitness & Sports,1,25.5,0,25.5,Credit Card,Completed,Website
+ORD-0225,28-03-2024,Patricia Martinez,Male,San Jose,California,Insulated Travel Mug,Travel Gear,2,18.99,10,34.18,Google Pay,Delivered,In-Store
+ORD-0226,15-06-2023,John Smith,Male,New York,New York,Wireless Bluetooth Headphones,Electronics,2,129.99,5,247.48,Credit Card,Completed,Website
+ORD-0227,16-06-2023,Emily Johnson,Female,Los Angeles,California,Smart Fitness Watch,Electronics,1,199.99,10,179.99,Debit Card,Shipped,Mobile App
+ORD-0228,17-06-2023,Michael Williams,Male,Chicago,Illinois,Stainless Steel Water Bottle,Accessories,3,24.99,0,74.97,PayPal,Delivered,Website
+ORD-0229,18-06-2023,Sarah Brown,Female,Houston,Texas,Ergonomic Office Chair,Home & Office,1,249.99,15,212.49,Apple Pay,Processing,In-Store
+ORD-0230,19-06-2023,David Jones,Male,Phoenix,Arizona,Portable Power Bank 20000mAh,Electronics,2,59.99,0,119.98,Google Pay,Completed,Marketplace
+ORD-0231,20-06-2023,Jennifer Garcia,Female,Philadelphia,Pennsylvania,Mechanical Gaming Keyboard,Electronics,1,89.99,20,71.99,Bank Transfer,Shipped,Website
+ORD-0232,21-06-2023,Robert Miller,Male,San Antonio,Texas,Noise Cancelling Earbuds,Electronics,1,149.99,5,142.49,Credit Card,Delivered,Mobile App
+ORD-0233,22-06-2023,Lisa Davis,Female,San Diego,California,4K Webcam with Microphone,Electronics,1,79.99,0,79.99,Debit Card,Completed,Website
+ORD-0234,23-06-2023,James Rodriguez,Male,Dallas,Texas,Smart LED Light Bulb (4-Pack),Home & Office,4,19.99,10,71.96,PayPal,Shipped,In-Store
+ORD-0235,24-06-2023,Patricia Martinez,Female,San Jose,California,Yoga Mat with Carrying Strap,Fitness & Sports,2,34.99,0,69.98,Apple Pay,Delivered,Marketplace
+ORD-0236,25-06-2023,William Hernandez,Male,Austin,Texas,Insulated Travel Mug,Travel Gear,1,29.99,15,25.49,Google Pay,Completed,Website
+ORD-0237,26-06-2023,Elizabeth Lopez,Female,Jacksonville,Florida,Laptop Stand Adjustable,Home & Office,1,44.99,0,44.99,Bank Transfer,Processing,Mobile App
+ORD-0238,27-06-2023,Richard Gonzalez,Male,Fort Worth,Texas,USB-C Hub Multiport Adapter,Electronics,2,39.99,5,75.98,Credit Card,Shipped,In-Store
+ORD-0239,28-06-2023,Susan Wilson,Female,Columbus,Ohio,Wireless Charging Pad,Electronics,3,24.99,10,67.47,Debit Card,Delivered,Website
+ORD-0240,29-06-2023,Joseph Anderson,Male,Charlotte,North Carolina,Bluetooth Speaker Waterproof,Electronics,1,69.99,0,69.99,PayPal,Completed,Marketplace
+ORD-0241,30-06-2023,John Smith,Female,New York,New York,Smart Fitness Watch,Electronics,1,199.99,25,149.99,Apple Pay,Shipped,Mobile App
+ORD-0242,01-07-2023,Emily Johnson,Male,Los Angeles,California,Stainless Steel Water Bottle,Accessories,2,24.99,0,49.98,Google Pay,Delivered,Website
+ORD-0243,02-07-2023,Michael Williams,Female,Chicago,Illinois,Ergonomic Office Chair,Home & Office,1,249.99,10,224.99,Bank Transfer,Processing,In-Store
+ORD-0244,03-07-2023,Sarah Brown,Male,Houston,Texas,Portable Power Bank 20000mAh,Electronics,1,59.99,5,56.99,Credit Card,Completed,Marketplace
+ORD-0245,04-07-2023,David Jones,Female,Phoenix,Arizona,Mechanical Gaming Keyboard,Electronics,1,89.99,0,89.99,Debit Card,Shipped,Website
+ORD-0246,05-07-2023,Jennifer Garcia,Male,Philadelphia,Pennsylvania,Noise Cancelling Earbuds,Electronics,2,149.99,15,254.98,PayPal,Delivered,Mobile App
+ORD-0247,06-07-2023,Robert Miller,Female,San Antonio,Texas,4K Webcam with Microphone,Electronics,1,79.99,0,79.99,Apple Pay,Completed,In-Store
+ORD-0248,07-07-2023,Lisa Davis,Male,San Diego,California,Smart LED Light Bulb (4-Pack),Home & Office,3,19.99,20,47.98,Google Pay,Shipped,Website
+ORD-0249,08-07-2023,James Rodriguez,Female,Dallas,Texas,Yoga Mat with Carrying Strap,Fitness & Sports,1,34.99,0,34.99,Bank Transfer,Delivered,Marketplace
+ORD-0250,09-07-2023,Patricia Martinez,Male,San Jose,California,Insulated Travel Mug,Travel Gear,2,29.99,10,53.98,Credit Card,Processing,Mobile App
+ORD-0251,15-03-2024,John Smith,Male,New York,New York,Wireless Bluetooth Headphones,Electronics,2,49.99,10,89.98,Credit Card,Delivered,Website
+ORD-0252,16-03-2024,Emily Johnson,Female,Los Angeles,California,Smart Fitness Watch,Electronics,1,129.99,0,129.99,Debit Card,Shipped,Mobile App
+ORD-0253,17-03-2024,Michael Williams,Male,Chicago,Illinois,Stainless Steel Water Bottle,Travel Gear,3,24.5,5,69.98,PayPal,Completed,Marketplace
+ORD-0254,18-03-2024,Sarah Brown,Female,Houston,Texas,Ergonomic Office Chair,Home & Office,1,199.99,15,169.99,Apple Pay,Processing,Website
+ORD-0255,19-03-2024,David Jones,Male,Phoenix,Arizona,Portable Power Bank 20000mAh,Electronics,2,59.99,0,119.98,Google Pay,Delivered,In-Store
+ORD-0256,20-03-2024,Jennifer Garcia,Female,Philadelphia,Pennsylvania,Mechanical Gaming Keyboard,Electronics,1,89.99,20,71.99,Credit Card,Shipped,Mobile App
+ORD-0257,21-03-2024,Robert Miller,Male,San Antonio,Texas,Noise Cancelling Earbuds,Electronics,1,149.99,10,134.99,Debit Card,Completed,Website
+ORD-0258,22-03-2024,Lisa Davis,Female,San Diego,California,4K Webcam with Microphone,Electronics,2,79.99,0,159.98,Bank Transfer,Processing,Marketplace
+ORD-0259,23-03-2024,James Rodriguez,Male,Dallas,Texas,Smart LED Light Bulb (4-Pack),Home & Office,4,19.99,5,75.96,Cash on Delivery,Shipped,In-Store
+ORD-0260,24-03-2024,Patricia Martinez,Female,San Jose,California,Yoga Mat with Carrying Strap,Fitness & Sports,1,34.99,0,34.99,Apple Pay,Delivered,Website
+ORD-0261,25-03-2024,William Hernandez,Male,Austin,Texas,Insulated Travel Mug,Travel Gear,2,29.99,10,53.98,Credit Card,Completed,Mobile App
+ORD-0262,26-03-2024,Elizabeth Lopez,Female,Jacksonville,Florida,Laptop Stand Adjustable,Home & Office,1,44.99,0,44.99,Debit Card,Shipped,Marketplace
+ORD-0263,27-03-2024,Richard Gonzalez,Male,Fort Worth,Texas,USB-C Hub Multiport Adapter,Electronics,3,39.99,15,101.97,PayPal,Processing,Website
+ORD-0264,28-03-2024,Susan Wilson,Female,Columbus,Ohio,Wireless Charging Pad,Electronics,2,25.99,0,51.98,Google Pay,Delivered,In-Store
+ORD-0265,29-03-2024,Joseph Anderson,Male,Charlotte,North Carolina,Bluetooth Speaker Waterproof,Electronics,1,69.99,5,66.49,Credit Card,Shipped,Mobile App
+ORD-0266,30-03-2024,John Smith,Female,New York,New York,Wireless Bluetooth Headphones,Electronics,1,49.99,,49.99,Debit Card,Completed,Website
+ORD-0267,31-03-2024,Emily Johnson,Male,Los Angeles,California,Smart Fitness Watch,Electronics,2,129.99,10,233.98,PayPal,Processing,Marketplace
+ORD-0268,01-04-2024,Michael Williams,Female,Chicago,Illinois,Stainless Steel Water Bottle,Travel Gear,1,24.5,0,24.5,Apple Pay,Shipped,In-Store
+ORD-0269,02-04-2024,Sarah Brown,Male,Houston,Texas,Ergonomic Office Chair,Home & Office,1,199.99,20,159.99,Credit Card,Delivered,Website
+ORD-0270,03-04-2024,David Jones,Female,Phoenix,Arizona,Portable Power Bank 20000mAh,Electronics,3,59.99,5,170.97,Debit Card,Completed,Mobile App
+ORD-0271,04-04-2024,Jennifer Garcia,Male,Philadelphia,Pennsylvania,Mechanical Gaming Keyboard,Electronics,1,89.99,0,89.99,Google Pay,Shipped,Marketplace
+ORD-0272,05-04-2024,Robert Miller,Female,San Antonio,Texas,Noise Cancelling Earbuds,Electronics,2,149.99,10,269.98,Bank Transfer,Processing,In-Store
+ORD-0273,06-04-2024,Lisa Davis,Male,San Diego,California,4K Webcam with Microphone,Electronics,1,79.99,15,67.99,Cash on Delivery,Delivered,Website
+ORD-0274,07-04-2024,James Rodriguez,Female,Dallas,Texas,Smart LED Light Bulb (4-Pack),Home & Office,5,19.99,0,99.95,Apple Pay,Completed,Mobile App
+ORD-0275,08-04-2024,Patricia Martinez,Male,San Jose,California,Yoga Mat with Carrying Strap,Fitness & Sports,1,34.99,,34.99,Credit Card,Shipped,Marketplace
+ORD-0276,15-03-2023,John Smith,Male,New York,New York,Wireless Bluetooth Headphones,Electronics,2,125,10,225,Credit Card,Completed,Website
+ORD-0277,22-04-2023,Emily Johnson,Female,Los Angeles,California,Smart Fitness Watch,Electronics,1,249.99,5,237.49,Debit Card,Shipped,Mobile App
+ORD-0278,10-05-2023,Michael Williams,Male,Chicago,Illinois,Stainless Steel Water Bottle,Travel Gear,3,35,0,105,PayPal,Delivered,Website
+ORD-0279,18-06-2023,Sarah Brown,Female,Houston,Texas,Ergonomic Office Chair,Home & Office,1,199.99,15,169.99,Apple Pay,Processing,In-Store
+ORD-0280,05-07-2023,David Jones,Male,Phoenix,Arizona,Portable Power Bank 20000mAh,Electronics,2,89.99,0,179.98,Google Pay,Completed,Marketplace
+ORD-0281,12-08-2023,Jennifer Garcia,Female,Philadelphia,Pennsylvania,Mechanical Gaming Keyboard,Electronics,1,149.99,20,119.99,Credit Card,Shipped,Website
+ORD-0282,20-09-2023,Robert Miller,Male,San Antonio,Texas,Noise Cancelling Earbuds,Electronics,1,179.99,10,161.99,Debit Card,Delivered,Mobile App
+ORD-0283,08-10-2023,Lisa Davis,Female,San Diego,California,4K Webcam with Microphone,Electronics,1,99.99,0,99.99,PayPal,Completed,In-Store
+ORD-0284,15-11-2023,James Rodriguez,Male,Dallas,Texas,Smart LED Light Bulb (4-Pack),Home & Office,4,25,5,95,Apple Pay,Processing,Website
+ORD-0285,01-12-2023,Patricia Martinez,Female,San Jose,California,Yoga Mat with Carrying Strap,Fitness & Sports,2,45,0,90,Google Pay,Shipped,Marketplace
+ORD-0286,10-01-2024,William Hernandez,Male,Austin,Texas,Insulated Travel Mug,Travel Gear,3,29.99,10,80.97,Credit Card,Delivered,Mobile App
+ORD-0287,14-02-2024,Elizabeth Lopez,Female,Jacksonville,Florida,Laptop Stand Adjustable,Home & Office,1,59.99,0,59.99,Debit Card,Completed,Website
+ORD-0288,22-03-2024,Richard Gonzalez,Male,Fort Worth,Texas,USB-C Hub Multiport Adapter,Electronics,2,49.99,15,84.98,PayPal,Shipped,In-Store
+ORD-0289,05-04-2024,Susan Wilson,Female,Columbus,Ohio,Wireless Charging Pad,Electronics,1,39.99,0,39.99,Apple Pay,Processing,Marketplace
+ORD-0290,18-05-2024,Joseph Anderson,Male,Charlotte,North Carolina,Wireless Bluetooth Headphones,Electronics,1,125,25,93.75,Google Pay,Delivered,Website
+ORD-0291,25-06-2024,John Smith,Male,New York,New York,Smart Fitness Watch,Electronics,1,249.99,0,249.99,Credit Card,Completed,Mobile App
+ORD-0292,12-07-2024,Emily Johnson,Female,Los Angeles,California,Stainless Steel Water Bottle,Travel Gear,5,35,10,157.5,Debit Card,Shipped,In-Store
+ORD-0293,08-08-2024,Michael Williams,Male,Chicago,Illinois,Ergonomic Office Chair,Home & Office,1,199.99,0,199.99,PayPal,Delivered,Website
+ORD-0294,19-09-2024,Sarah Brown,Female,Houston,Texas,Portable Power Bank 20000mAh,Electronics,1,89.99,5,85.49,Apple Pay,Processing,Marketplace
+ORD-0295,30-10-2024,David Jones,Male,Phoenix,Arizona,Mechanical Gaming Keyboard,Electronics,2,149.99,20,239.98,Google Pay,Shipped,Mobile App
+ORD-0296,11-11-2024,Jennifer Garcia,Female,Philadelphia,Pennsylvania,Noise Cancelling Earbuds,Electronics,1,179.99,0,179.99,Credit Card,Completed,In-Store
+ORD-0297,05-12-2024,Robert Miller,Male,San Antonio,Texas,4K Webcam with Microphone,Electronics,1,99.99,10,89.99,Debit Card,Delivered,Website
+ORD-0298,20-12-2024,Lisa Davis,Female,San Diego,California,Smart LED Light Bulb (4-Pack),Home & Office,2,25,0,50,PayPal,Processing,Marketplace
+ORD-0299,25-12-2024,James Rodriguez,Male,Dallas,Texas,Yoga Mat with Carrying Strap,Fitness & Sports,1,45,15,38.25,Apple Pay,Shipped,Mobile App
+ORD-0300,31-12-2024,Patricia Martinez,Female,San Jose,California,Insulated Travel Mug,Travel Gear,2,29.99,0,59.98,Google Pay,Completed,In-Store
+ORD-0301,15-06-2023,John Smith,Male,New York,New York,Wireless Bluetooth Headphones,Electronics,2,129.99,,259.98,Credit Card,Completed,Website
+ORD-0302,22-07-2023,Emily Johnson,Female,Los Angeles,California,Smart Fitness Watch,Fitness & Sports,1,199.5,5,189.53,Debit Card,Shipped,Mobile App
+ORD-0303,10-08-2023,Michael Williams,Male,Chicago,Illinois,Stainless Steel Water Bottle,Accessories,3,24.99,,74.97,PayPal,Delivered,In-Store
+ORD-0304,05-09-2023,Sarah Brown,Female,Houston,Texas,Ergonomic Office Chair,Home & Office,1,249.99,10,224.99,Apple Pay,Processing,Website
+ORD-0305,12-10-2023,David Jones,Male,Phoenix,Arizona,Portable Power Bank 20000mAh,Electronics,2,45,,90,Google Pay,Completed,Marketplace
+ORD-0306,20-11-2023,Jennifer Garcia,Female,Philadelphia,Pennsylvania,Mechanical Gaming Keyboard,Electronics,1,89.99,15,76.49,Credit Card,Shipped,Mobile App
+ORD-0307,01-12-2023,Robert Miller,Non-binary,San Antonio,Texas,Noise Cancelling Earbuds,Electronics,2,159.99,,319.98,Debit Card,Delivered,In-Store
+ORD-0308,14-01-2024,Lisa Davis,Female,San Diego,California,4K Webcam with Microphone,Electronics,1,119.5,20,95.6,PayPal,Cancelled,Website
+ORD-0309,28-02-2024,James Rodriguez,Male,Dallas,Texas,Smart LED Light Bulb (4-Pack),Home & Office,4,35,,140,Apple Pay,Completed,Mobile App
+ORD-0310,15-03-2024,Patricia Martinez,Female,San Jose,California,Yoga Mat with Carrying Strap,Fitness & Sports,1,29.99,5,28.49,Google Pay,Shipped,Marketplace
+ORD-0311,02-04-2024,William Hernandez,Male,Austin,Texas,Insulated Travel Mug,Travel Gear,2,18.5,,37,Credit Card,Delivered,In-Store
+ORD-0312,19-05-2024,Elizabeth Lopez,Female,Jacksonville,Florida,Laptop Stand Adjustable,Home & Office,1,49.99,10,44.99,Debit Card,Processing,Website
+ORD-0313,08-06-2024,Richard Gonzalez,Male,Fort Worth,Texas,USB-C Hub Multiport Adapter,Electronics,3,59.99,,179.97,PayPal,Completed,Mobile App
+ORD-0314,25-07-2024,Susan Wilson,Female,Columbus,Ohio,Wireless Charging Pad,Electronics,1,39.99,25,29.99,Apple Pay,Shipped,Marketplace
+ORD-0315,11-08-2024,Joseph Anderson,Male,Charlotte,North Carolina,Bluetooth Speaker Waterproof,Electronics,2,79.99,,159.98,Google Pay,Delivered,In-Store
+ORD-0316,03-09-2024,John Smith,Female,New York,New York,Smart Fitness Watch,Fitness & Sports,1,199.5,10,179.55,Credit Card,Processing,Website
+ORD-0317,17-10-2024,Emily Johnson,Male,Los Angeles,California,Stainless Steel Water Bottle,Accessories,5,24.99,,124.95,Debit Card,Completed,Mobile App
+ORD-0318,09-11-2024,Michael Williams,Female,Chicago,Illinois,Ergonomic Office Chair,Home & Office,1,249.99,5,237.49,PayPal,Shipped,In-Store
+ORD-0319,01-12-2024,Sarah Brown,Male,Houston,Texas,Portable Power Bank 20000mAh,Electronics,2,45,,90,Apple Pay,Delivered,Marketplace
+ORD-0320,20-05-2023,David Jones,Female,Phoenix,Arizona,Mechanical Gaming Keyboard,Electronics,1,89.99,15,76.49,Google Pay,Cancelled,Website
+ORD-0321,12-04-2023,Jennifer Garcia,Non-binary,Philadelphia,Pennsylvania,Noise Cancelling Earbuds,Electronics,2,159.99,,319.98,Credit Card,Completed,Mobile App
+ORD-0322,25-03-2023,Robert Miller,Male,San Antonio,Texas,4K Webcam with Microphone,Electronics,1,119.5,20,95.6,Debit Card,Shipped,In-Store
+ORD-0323,14-02-2023,Lisa Davis,Female,San Diego,California,Smart LED Light Bulb (4-Pack),Home & Office,4,35,,140,PayPal,Delivered,Marketplace
+ORD-0324,30-01-2023,James Rodriguez,Male,Dallas,Texas,Yoga Mat with Carrying Strap,Fitness & Sports,1,29.99,5,28.49,Apple Pay,Processing,Website
+ORD-0325,05-01-2023,Patricia Martinez,Female,San Jose,California,Insulated Travel Mug,Travel Gear,2,18.5,,37,Google Pay,Completed,Mobile App
+ORD-0326,15-04-2023,John Smith,Male,New York,New York,Wireless Bluetooth Headphones,Electronics,2,129.99,10,233.98,Credit Card,Completed,Website
+ORD-0327,16-04-2023,Emily Johnson,Female,Los Angeles,California,Smart Fitness Watch,Electronics,1,199.99,5,189.99,Debit Card,Shipped,Mobile App
+ORD-0328,17-04-2023,Michael Williams,Male,Chicago,Illinois,Stainless Steel Water Bottle,Accessories,3,24.99,0,74.97,PayPal,Delivered,In-Store
+ORD-0329,18-04-2023,Sarah Brown,Female,Houston,Texas,Ergonomic Office Chair,Home & Office,1,299.99,15,254.99,Credit Card,Processing,Website
+ORD-0330,19-04-2023,David Jones,Male,Phoenix,Arizona,Portable Power Bank 20000mAh,Electronics,2,59.99,0,119.98,Apple Pay,Completed,Marketplace
+ORD-0331,20-04-2023,Jennifer Garcia,Female,Philadelphia,Pennsylvania,Mechanical Gaming Keyboard,Electronics,1,149.99,20,119.99,Google Pay,Shipped,Mobile App
+ORD-0332,21-04-2023,Robert Miller,Male,San Antonio,Texas,Noise Cancelling Earbuds,Electronics,4,89.99,10,323.96,Credit Card,Delivered,Website
+ORD-0333,22-04-2023,Lisa Davis,Female,San Diego,California,4K Webcam with Microphone,Electronics,1,179.99,0,179.99,Debit Card,Completed,In-Store
+ORD-0334,23-04-2023,James Rodriguez,Male,Dallas,Texas,Smart LED Light Bulb (4-Pack),Home & Office,5,34.99,5,166.2,PayPal,Shipped,Mobile App
+ORD-0335,24-04-2023,Patricia Martinez,Female,San Jose,California,Yoga Mat with Carrying Strap,Fitness & Sports,2,39.99,0,79.98,Apple Pay,Delivered,Website
+ORD-0336,25-04-2023,William Hernandez,Male,Austin,Texas,Insulated Travel Mug,Travel Gear,3,29.99,10,80.97,Credit Card,Processing,Marketplace
+ORD-0337,26-04-2023,Elizabeth Lopez,Female,Jacksonville,Florida,Laptop Stand Adjustable,Home & Office,1,49.99,0,49.99,Google Pay,Completed,In-Store
+ORD-0338,27-04-2023,Richard Gonzalez,Male,Fort Worth,Texas,USB-C Hub Multiport Adapter,Electronics,2,69.99,15,118.98,Debit Card,Shipped,Mobile App
+ORD-0339,28-04-2023,Susan Wilson,Female,Columbus,Ohio,Wireless Charging Pad,Electronics,1,39.99,0,39.99,PayPal,Delivered,Website
+ORD-0340,29-04-2023,Joseph Anderson,Male,Charlotte,North Carolina,Bluetooth Speaker Waterproof,Electronics,2,79.99,5,151.98,Credit Card,Completed,In-Store
+ORD-0341,30-04-2023,John Smith,Male,New York,New York,Smart Fitness Watch,Electronics,1,199.99,10,179.99,Apple Pay,Processing,Marketplace
+ORD-0342,01-05-2023,Emily Johnson,Female,Los Angeles,California,Stainless Steel Water Bottle,Accessories,4,24.99,0,99.96,Debit Card,Shipped,Mobile App
+ORD-0343,02-05-2023,Michael Williams,Male,Chicago,Illinois,Ergonomic Office Chair,Home & Office,1,299.99,20,239.99,Credit Card,Delivered,Website
+ORD-0344,03-05-2023,Sarah Brown,Female,Houston,Texas,Portable Power Bank 20000mAh,Electronics,2,59.99,5,113.98,PayPal,Completed,In-Store
+ORD-0345,04-05-2023,David Jones,Male,Phoenix,Arizona,Mechanical Gaming Keyboard,Electronics,1,149.99,0,149.99,Google Pay,Shipped,Mobile App
+ORD-0346,05-05-2023,Jennifer Garcia,Female,Philadelphia,Pennsylvania,Noise Cancelling Earbuds,Electronics,3,89.99,15,229.47,Credit Card,Delivered,Website
+ORD-0347,06-05-2023,Robert Miller,Male,San Antonio,Texas,4K Webcam with Microphone,Electronics,1,179.99,10,161.99,Apple Pay,Processing,Marketplace
+ORD-0348,07-05-2023,Lisa Davis,Female,San Diego,California,Smart LED Light Bulb (4-Pack),Home & Office,6,34.99,0,209.94,Debit Card,Completed,In-Store
+ORD-0349,08-05-2023,James Rodriguez,Male,Dallas,Texas,Yoga Mat with Carrying Strap,Fitness & Sports,2,39.99,5,75.98,PayPal,Shipped,Mobile App
+ORD-0350,09-05-2023,Patricia Martinez,Female,San Jose,California,Insulated Travel Mug,Travel Gear,1,29.99,0,29.99,Credit Card,Delivered,Website
+ORD-0351,12-05-2023,John Smith,Male,New York,New York,Wireless Bluetooth Headphones,Electronics,2,125,10,225,Credit Card,Completed,Website
+ORD-0352,23-06-2023,Emily Johnson,Female,Los Angeles,California,Smart Fitness Watch,Electronics,1,199.99,,199.99,Debit Card,Shipped,Mobile App
+ORD-0353,15-07-2023,Michael Williams,Male,Chicago,Illinois,Stainless Steel Water Bottle,Accessories,3,25.5,5,72.68,PayPal,Delivered,In-Store
+ORD-0354,04-08-2023,Sarah Brown,Female,Houston,Texas,Ergonomic Office Chair,Home & Office,1,249.99,15,212.49,Apple Pay,Processing,Website
+ORD-0355,18-09-2023,David Jones,Male,Phoenix,Arizona,Portable Power Bank 20000mAh,Electronics,2,89.99,,179.98,Google Pay,Completed,Marketplace
+ORD-0356,29-10-2023,Jennifer Garcia,Female,Philadelphia,Pennsylvania,Mechanical Gaming Keyboard,Electronics,1,145,20,116,Bank Transfer,Shipped,Mobile App
+ORD-0357,11-11-2023,Robert Miller,Male,San Antonio,Texas,Noise Cancelling Earbuds,Electronics,4,59.99,0,239.96,Credit Card,Delivered,Website
+ORD-0358,02-12-2023,Lisa Davis,Female,San Diego,California,4K Webcam with Microphone,Electronics,1,179.5,,179.5,Debit Card,Cancelled,In-Store
+ORD-0359,14-01-2024,James Rodriguez,Male,Dallas,Texas,Smart LED Light Bulb (4-Pack),Home & Office,5,35,10,157.5,PayPal,Completed,Marketplace
+ORD-0360,20-02-2024,Patricia Martinez,Female,San Jose,California,Yoga Mat with Carrying Strap,Fitness & Sports,2,42,,84,Apple Pay,Shipped,Mobile App
+ORD-0361,08-03-2024,William Hernandez,Male,Austin,Texas,Insulated Travel Mug,Travel Gear,3,28.99,5,82.47,Google Pay,Delivered,Website
+ORD-0362,16-04-2024,Elizabeth Lopez,Female,Jacksonville,Florida,Laptop Stand Adjustable,Home & Office,1,65,15,55.25,Credit Card,Processing,In-Store
+ORD-0363,25-05-2024,Richard Gonzalez,Male,Fort Worth,Texas,USB-C Hub Multiport Adapter,Electronics,2,49.99,,99.98,Debit Card,Completed,Marketplace
+ORD-0364,12-06-2024,Susan Wilson,Female,Columbus,Ohio,Bluetooth Speaker Waterproof,Electronics,1,110,25,82.5,Bank Transfer,Shipped,Mobile App
+ORD-0365,03-07-2024,Joseph Anderson,Male,Charlotte,North Carolina,Wireless Bluetooth Headphones,Electronics,2,125,,250,Apple Pay,Delivered,Website
+ORD-0366,19-08-2024,John Smith,Female,New York,New York,Smart Fitness Watch,Electronics,1,199.99,10,179.99,Credit Card,Cancelled,In-Store
+ORD-0367,07-09-2024,Emily Johnson,Male,Los Angeles,California,Stainless Steel Water Bottle,Accessories,4,25.5,0,102,Debit Card,Refunded,Marketplace
+ORD-0368,22-10-2024,Michael Williams,Female,Chicago,Illinois,Ergonomic Office Chair,Home & Office,1,249.99,,249.99,PayPal,Completed,Mobile App
+ORD-0369,14-11-2024,Sarah Brown,Male,Houston,Texas,Portable Power Bank 20000mAh,Electronics,3,89.99,5,256.47,Google Pay,Shipped,Website
+ORD-0370,01-12-2024,David Jones,Female,Phoenix,Arizona,Mechanical Gaming Keyboard,Electronics,1,145,20,116,Credit Card,Delivered,In-Store
+ORD-0371,10-02-2023,Jennifer Garcia,Male,Philadelphia,Pennsylvania,Noise Cancelling Earbuds,Electronics,2,59.99,,119.98,Debit Card,Processing,Marketplace
+ORD-0372,25-03-2023,Robert Miller,Female,San Antonio,Texas,4K Webcam with Microphone,Electronics,1,179.5,15,152.58,Apple Pay,Completed,Mobile App
+ORD-0373,18-04-2023,Lisa Davis,Male,San Diego,California,Smart LED Light Bulb (4-Pack),Home & Office,6,35,,210,Bank Transfer,Shipped,Website
+ORD-0374,30-01-2023,James Rodriguez,Female,Dallas,Texas,Yoga Mat with Carrying Strap,Fitness & Sports,2,42,10,75.6,PayPal,Delivered,In-Store
+ORD-0375,28-08-2023,Patricia Martinez,Male,San Jose,California,Insulated Travel Mug,Travel Gear,1,28.99,,28.99,Google Pay,Completed,Marketplace
+ORD-0376,15-03-2024,John Smith,Male,New York,New York,Wireless Bluetooth Headphones,Electronics,2,49.99,10,90,Credit Card,Completed,Website
+ORD-0377,22-07-2023,Emily Johnson,Female,Los Angeles,California,Smart Fitness Watch,Electronics,1,129.99,0,129.99,Debit Card,Delivered,Mobile App
+ORD-0378,10-01-2024,Michael Williams,Non-binary,Chicago,Illinois,Stainless Steel Water Bottle,Accessories,3,24.5,5,70,PayPal,Shipped,In-Store
+ORD-0379,05-11-2023,Sarah Brown,Female,Houston,Texas,Ergonomic Office Chair,Home & Office,1,299.99,15,254.99,Apple Pay,Processing,Website
+ORD-0380,18-05-2024,David Jones,Male,Phoenix,Arizona,Portable Power Bank 20000mAh,Electronics,2,39.99,0,79.98,Google Pay,Completed,Marketplace
+ORD-0381,30-09-2023,Jennifer Garcia,Female,Philadelphia,Pennsylvania,Mechanical Gaming Keyboard,Electronics,1,89.99,20,71.99,Bank Transfer,Delivered,Mobile App
+ORD-0382,14-02-2024,Robert Miller,Male,San Antonio,Texas,Noise Cancelling Earbuds,Electronics,1,149.99,10,134.99,Credit Card,Shipped,Website
+ORD-0383,20-12-2023,Lisa Davis,Female,San Diego,California,4K Webcam with Microphone,Electronics,1,119.99,0,119.99,Debit Card,Completed,In-Store
+ORD-0384,05-04-2024,James Rodriguez,Non-binary,Dallas,Texas,Smart LED Light Bulb (4-Pack),Home & Office,4,19.99,5,76,PayPal,Processing,Marketplace
+ORD-0385,12-08-2023,Patricia Martinez,Female,San Jose,California,Yoga Mat with Carrying Strap,Fitness & Sports,2,34.99,0,69.98,Apple Pay,Delivered,Mobile App
+ORD-0386,25-06-2024,William Hernandez,Male,Austin,Texas,Insulated Travel Mug,Travel Gear,1,29.99,10,26.99,Google Pay,Shipped,Website
+ORD-0387,08-10-2023,Elizabeth Lopez,Female,Jacksonville,Florida,Laptop Stand Adjustable,Home & Office,1,45,0,45,Bank Transfer,Completed,In-Store
+ORD-0388,28-01-2024,Richard Gonzalez,Male,Fort Worth,Texas,USB-C Hub Multiport Adapter,Electronics,2,59.99,15,101.98,Credit Card,Processing,Mobile App
+ORD-0389,15-06-2023,Susan Wilson,Female,Columbus,Ohio,Wireless Charging Pad,Accessories,3,25.5,0,76.5,Debit Card,Shipped,Marketplace
+ORD-0390,02-03-2024,Joseph Anderson,Non-binary,Charlotte,North Carolina,Bluetooth Speaker Waterproof,Electronics,1,79.99,5,75.99,PayPal,Delivered,Website
+ORD-0391,22-11-2023,John Smith,Male,New York,New York,Wireless Bluetooth Headphones,Electronics,1,49.99,,49.99,Apple Pay,Completed,Mobile App
+ORD-0392,10-05-2024,Emily Johnson,Female,Los Angeles,California,Smart Fitness Watch,Electronics,2,129.99,10,233.98,Google Pay,Shipped,In-Store
+ORD-0393,05-09-2023,Michael Williams,Non-binary,Chicago,Illinois,Stainless Steel Water Bottle,Accessories,1,24.5,0,24.5,Bank Transfer,Processing,Marketplace
+ORD-0394,28-02-2024,Sarah Brown,Female,Houston,Texas,Ergonomic Office Chair,Home & Office,1,299.99,20,239.99,Credit Card,Delivered,Website
+ORD-0395,14-07-2023,David Jones,Male,Phoenix,Arizona,Portable Power Bank 20000mAh,Electronics,3,39.99,5,113.97,Debit Card,Shipped,Mobile App
+ORD-0396,19-04-2024,Jennifer Garcia,Female,Philadelphia,Pennsylvania,Mechanical Gaming Keyboard,Electronics,1,89.99,,89.99,PayPal,Completed,In-Store
+ORD-0397,03-12-2023,Robert Miller,Male,San Antonio,Texas,Noise Cancelling Earbuds,Electronics,2,149.99,15,254.98,Apple Pay,Processing,Marketplace
+ORD-0398,08-06-2024,Lisa Davis,Female,San Diego,California,4K Webcam with Microphone,Electronics,1,119.99,0,119.99,Google Pay,Shipped,Website
+ORD-0399,27-08-2023,James Rodriguez,Non-binary,Dallas,Texas,Smart LED Light Bulb (4-Pack),Home & Office,5,19.99,10,89.96,Credit Card,Delivered,Mobile App
+ORD-0400,05-01-2024,Patricia Martinez,Female,San Jose,California,Yoga Mat with Carrying Strap,Fitness & Sports,1,34.99,5,33.24,Debit Card,Completed,In-Store
+ORD-0401,15-03-2024,John Smith,Male,New York,New York,Wireless Bluetooth Headphones,Electronics,2,45.5,10,81.9,Credit Card,Completed,Website
+ORD-0402,16-03-2024,Emily Johnson,Female,Los Angeles,California,Smart Fitness Watch,Electronics,1,129.99,,129.99,Apple Pay,Shipped,Mobile App
+ORD-0403,17-03-2024,Michael Williams,Male,Chicago,Illinois,Stainless Steel Water Bottle,Accessories,5,24.99,5,118.7,Debit Card,Delivered,In-Store
+ORD-0404,18-03-2024,Sarah Brown,Female,Houston,Texas,Ergonomic Office Chair,Home & Office,1,299.99,15,254.99,Credit Card,Processing,Website
+ORD-0405,19-03-2024,David Jones,Male,Phoenix,Arizona,Portable Power Bank 20000mAh,Electronics,3,49.99,0,149.97,PayPal,Completed,Marketplace
+ORD-0406,20-03-2024,Jennifer Garcia,Female,Philadelphia,Pennsylvania,Mechanical Gaming Keyboard,Electronics,1,89.99,20,71.99,Google Pay,Shipped,Mobile App
+ORD-0407,21-03-2024,Robert Miller,Male,San Antonio,Texas,Noise Cancelling Earbuds,Electronics,2,159.99,10,287.98,Credit Card,Delivered,Website
+ORD-0408,22-03-2024,Lisa Davis,Female,San Diego,California,4K Webcam with Microphone,Electronics,1,79.99,,79.99,Apple Pay,Completed,In-Store
+ORD-0409,23-03-2024,James Rodriguez,Male,Dallas,Texas,Smart LED Light Bulb (4-Pack),Home & Office,4,34.99,5,132.96,Debit Card,Shipped,Marketplace
+ORD-0410,24-03-2024,Patricia Martinez,Female,San Jose,California,Yoga Mat with Carrying Strap,Fitness & Sports,2,29.99,0,59.98,Credit Card,Delivered,Mobile App
+ORD-0411,25-03-2024,William Hernandez,Male,Austin,Texas,Insulated Travel Mug,Travel Gear,3,19.99,10,53.97,PayPal,Processing,Website
+ORD-0412,26-03-2024,Elizabeth Lopez,Female,Jacksonville,Florida,Laptop Stand Adjustable,Home & Office,1,44.99,15,38.24,Google Pay,Completed,In-Store
+ORD-0413,27-03-2024,Richard Gonzalez,Male,Fort Worth,Texas,USB-C Hub Multiport Adapter,Electronics,2,39.99,0,79.98,Credit Card,Shipped,Marketplace
+ORD-0414,28-03-2024,Susan Wilson,Female,Columbus,Ohio,Wireless Charging Pad,Electronics,1,29.99,5,28.49,Apple Pay,Delivered,Mobile App
+ORD-0415,29-03-2024,Joseph Anderson,Male,Charlotte,North Carolina,Bluetooth Speaker Waterproof,Electronics,2,69.99,10,125.98,Debit Card,Completed,Website
+ORD-0416,01-04-2024,John Smith,Male,New York,New York,Smart Fitness Watch,Electronics,1,129.99,20,103.99,Credit Card,Shipped,In-Store
+ORD-0417,02-04-2024,Emily Johnson,Female,Los Angeles,California,Stainless Steel Water Bottle,Accessories,4,24.99,,99.96,PayPal,Delivered,Mobile App
+ORD-0418,03-04-2024,Michael Williams,Male,Chicago,Illinois,Ergonomic Office Chair,Home & Office,1,299.99,10,269.99,Apple Pay,Processing,Website
+ORD-0419,04-04-2024,Sarah Brown,Female,Houston,Texas,Portable Power Bank 20000mAh,Electronics,2,49.99,5,94.98,Credit Card,Completed,Marketplace
+ORD-0420,05-04-2024,David Jones,Male,Phoenix,Arizona,Mechanical Gaming Keyboard,Electronics,1,89.99,0,89.99,Debit Card,Shipped,In-Store
+ORD-0421,06-04-2024,Jennifer Garcia,Female,Philadelphia,Pennsylvania,Noise Cancelling Earbuds,Electronics,3,159.99,15,407.97,Google Pay,Delivered,Mobile App
+ORD-0422,07-04-2024,Robert Miller,Male,San Antonio,Texas,4K Webcam with Microphone,Electronics,1,79.99,10,71.99,Credit Card,Completed,Website
+ORD-0423,08-04-2024,Lisa Davis,Female,San Diego,California,Smart LED Light Bulb (4-Pack),Home & Office,5,34.99,20,139.96,Apple Pay,Shipped,Marketplace
+ORD-0424,09-04-2024,James Rodriguez,Male,Dallas,Texas,Yoga Mat with Carrying Strap,Fitness & Sports,2,29.99,,59.98,PayPal,Delivered,In-Store
+ORD-0425,10-04-2024,Patricia Martinez,Female,San Jose,California,Insulated Travel Mug,Travel Gear,3,19.99,5,56.97,Debit Card,Completed,Mobile App
+ORD-0426,15-03-2023,John Smith,Male,New York,New York,Wireless Bluetooth Headphones,Electronics,2,129.99,10,233.98,Credit Card,Delivered,Website
+ORD-0427,22-04-2023,Emily Johnson,Female,Los Angeles,California,Smart Fitness Watch,Fitness & Sports,1,199.5,0,199.5,Apple Pay,Completed,Mobile App
+ORD-0428,10-05-2023,Michael Williams,Male,Chicago,Illinois,Stainless Steel Water Bottle,Accessories,3,24.99,5,71.22,Debit Card,Shipped,In-Store
+ORD-0429,01-06-2023,Sarah Brown,Female,Houston,Texas,Ergonomic Office Chair,Home & Office,1,349,15,296.65,PayPal,Processing,Marketplace
+ORD-0430,14-07-2023,David Jones,Male,Phoenix,Arizona,Portable Power Bank 20000mAh,Electronics,2,59.99,0,119.98,Credit Card,Delivered,Website
+ORD-0431,20-08-2023,Jennifer Garcia,Female,Philadelphia,Pennsylvania,Mechanical Gaming Keyboard,Electronics,1,89.99,20,71.99,Google Pay,Completed,Mobile App
+ORD-0432,05-09-2023,Robert Miller,Male,San Antonio,Texas,Noise Cancelling Earbuds,Electronics,1,149.99,10,134.99,Credit Card,Shipped,In-Store
+ORD-0433,12-10-2023,Lisa Davis,Female,San Diego,California,4K Webcam with Microphone,Electronics,1,129,0,129,Apple Pay,Delivered,Website
+ORD-0434,25-11-2023,James Rodriguez,Male,Dallas,Texas,Smart LED Light Bulb (4-Pack),Home & Office,4,39.99,5,151.96,Debit Card,Completed,Marketplace
+ORD-0435,08-01-2024,Patricia Martinez,Female,San Jose,California,Yoga Mat with Carrying Strap,Fitness & Sports,2,34.5,0,69,Cash on Delivery,Shipped,Mobile App
+ORD-0436,14-02-2024,William Hernandez,Male,Austin,Texas,Insulated Travel Mug,Travel Gear,1,29.99,10,26.99,PayPal,Delivered,In-Store
+ORD-0437,22-03-2024,Elizabeth Lopez,Female,Jacksonville,Florida,Laptop Stand Adjustable,Home & Office,1,45,0,45,Credit Card,Processing,Website
+ORD-0438,10-04-2024,Richard Gonzalez,Male,Fort Worth,Texas,USB-C Hub Multiport Adapter,Electronics,2,69.99,15,118.98,Apple Pay,Completed,Marketplace
+ORD-0439,05-05-2024,Susan Wilson,Female,Columbus,Ohio,Wireless Charging Pad,Electronics,1,35,0,35,Debit Card,Shipped,Mobile App
+ORD-0440,18-06-2024,Joseph Anderson,Male,Charlotte,North Carolina,Bluetooth Speaker Waterproof,Electronics,1,79.99,5,75.99,Google Pay,Delivered,In-Store
+ORD-0441,02-07-2024,John Smith,Male,New York,New York,Wireless Bluetooth Headphones,Electronics,3,129.99,0,389.97,Credit Card,Completed,Website
+ORD-0442,15-08-2024,Emily Johnson,Female,Los Angeles,California,Smart Fitness Watch,Fitness & Sports,1,199.5,10,179.55,PayPal,Shipped,Mobile App
+ORD-0443,20-09-2024,Michael Williams,Male,Chicago,Illinois,Stainless Steel Water Bottle,Accessories,2,24.99,0,49.98,Apple Pay,Delivered,In-Store
+ORD-0444,05-10-2024,Sarah Brown,Female,Houston,Texas,Ergonomic Office Chair,Home & Office,1,349,0,349,Credit Card,Processing,Marketplace
+ORD-0445,12-11-2024,David Jones,Male,Phoenix,Arizona,Portable Power Bank 20000mAh,Electronics,1,59.99,20,47.99,Debit Card,Completed,Website
+ORD-0446,01-12-2024,Jennifer Garcia,Female,Philadelphia,Pennsylvania,Mechanical Gaming Keyboard,Electronics,2,89.99,0,179.98,Google Pay,Shipped,Mobile App
+ORD-0447,15-12-2024,Robert Miller,Male,San Antonio,Texas,Noise Cancelling Earbuds,Electronics,1,149.99,5,142.49,Credit Card,Delivered,In-Store
+ORD-0448,20-12-2024,Lisa Davis,Female,San Diego,California,4K Webcam with Microphone,Electronics,1,129,0,129,Apple Pay,Completed,Marketplace
+ORD-0449,25-12-2024,James Rodriguez,Male,Dallas,Texas,Smart LED Light Bulb (4-Pack),Home & Office,5,39.99,10,179.96,PayPal,Shipped,Website
+ORD-0450,31-12-2024,Patricia Martinez,Female,San Jose,California,Yoga Mat with Carrying Strap,Fitness & Sports,1,34.5,0,34.5,Debit Card,Delivered,Mobile App
+ORD-0451,15-03-2024,John Smith,Male,New York,New York,Wireless Bluetooth Headphones,Electronics,2,89.99,10,161.98,Credit Card,Delivered,Website
+ORD-0452,16-03-2024,Emily Johnson,Female,Los Angeles,California,Smart Fitness Watch,Electronics,1,199.99,5,189.99,Debit Card,Shipped,Mobile App
+ORD-0453,17-03-2024,Michael Williams,Male,Chicago,Illinois,Stainless Steel Water Bottle,Accessories,3,24.99,0,74.97,PayPal,Completed,In-Store
+ORD-0454,18-03-2024,Sarah Brown,Female,Houston,Texas,Ergonomic Office Chair,Home & Office,1,249.99,15,212.49,Apple Pay,Processing,Website
+ORD-0455,19-03-2024,David Jones,Male,Phoenix,Arizona,Portable Power Bank 20000mAh,Electronics,2,59.99,0,119.98,Google Pay,Delivered,Marketplace
+ORD-0456,20-03-2024,Jennifer Garcia,Female,Philadelphia,Pennsylvania,Mechanical Gaming Keyboard,Electronics,1,129.99,10,116.99,Credit Card,Shipped,Mobile App
+ORD-0457,21-03-2024,Robert Miller,Male,San Antonio,Texas,Noise Cancelling Earbuds,Electronics,1,149.99,20,119.99,Debit Card,Completed,In-Store
+ORD-0458,22-03-2024,Lisa Davis,Female,San Diego,California,4K Webcam with Microphone,Electronics,1,89.99,0,89.99,Bank Transfer,Processing,Website
+ORD-0459,23-03-2024,James Rodriguez,Male,Dallas,Texas,Smart LED Light Bulb (4-Pack),Home & Office,4,19.99,5,75.96,Apple Pay,Delivered,Mobile App
+ORD-0460,24-03-2024,Patricia Martinez,Female,San Jose,California,Yoga Mat with Carrying Strap,Fitness & Sports,2,34.99,0,69.98,Credit Card,Shipped,In-Store
+ORD-0461,25-03-2024,William Hernandez,Male,Austin,Texas,Insulated Travel Mug,Travel Gear,1,29.99,10,26.99,PayPal,Completed,Website
+ORD-0462,26-03-2024,Elizabeth Lopez,Female,Jacksonville,Florida,Laptop Stand Adjustable,Home & Office,1,45.99,0,45.99,Debit Card,Processing,Mobile App
+ORD-0463,27-03-2024,Richard Gonzalez,Male,Fort Worth,Texas,USB-C Hub Multiport Adapter,Electronics,2,39.99,15,67.98,Google Pay,Delivered,Marketplace
+ORD-0464,28-03-2024,Susan Wilson,Female,Columbus,Ohio,Wireless Charging Pad,Electronics,1,25.99,0,25.99,Apple Pay,Shipped,In-Store
+ORD-0465,29-03-2024,Joseph Anderson,Male,Charlotte,North Carolina,Bluetooth Speaker Waterproof,Electronics,1,79.99,5,75.99,Credit Card,Completed,Website
+ORD-0466,30-03-2024,John Smith,Female,New York,New York,Smart Fitness Watch,Electronics,1,199.99,10,179.99,Debit Card,Processing,Mobile App
+ORD-0467,31-03-2024,Emily Johnson,Male,Los Angeles,California,Stainless Steel Water Bottle,Accessories,2,24.99,0,49.98,PayPal,Delivered,In-Store
+ORD-0468,01-04-2024,Michael Williams,Female,Chicago,Illinois,Ergonomic Office Chair,Home & Office,1,249.99,20,199.99,Apple Pay,Shipped,Website
+ORD-0469,02-04-2024,Sarah Brown,Male,Houston,Texas,Portable Power Bank 20000mAh,Electronics,1,59.99,0,59.99,Google Pay,Completed,Marketplace
+ORD-0470,03-04-2024,David Jones,Female,Phoenix,Arizona,Mechanical Gaming Keyboard,Electronics,1,129.99,5,123.49,Credit Card,Processing,Mobile App
+ORD-0471,04-04-2024,Jennifer Garcia,Male,Philadelphia,Pennsylvania,Noise Cancelling Earbuds,Electronics,2,149.99,10,269.98,Debit Card,Delivered,In-Store
+ORD-0472,05-04-2024,Robert Miller,Female,San Antonio,Texas,4K Webcam with Microphone,Electronics,1,89.99,0,89.99,Bank Transfer,Shipped,Website
+ORD-0473,06-04-2024,Lisa Davis,Male,San Diego,California,Smart LED Light Bulb (4-Pack),Home & Office,3,19.99,15,50.97,Apple Pay,Completed,Mobile App
+ORD-0474,07-04-2024,James Rodriguez,Female,Dallas,Texas,Yoga Mat with Carrying Strap,Fitness & Sports,1,34.99,0,34.99,PayPal,Processing,In-Store
+ORD-0475,08-04-2024,Patricia Martinez,Male,San Jose,California,Insulated Travel Mug,Travel Gear,2,29.99,10,53.98,Credit Card,Delivered,Website
+ORD-0476,01-11-2024,John Smith,Male,New York,New York,Wireless Bluetooth Headphones,Electronics,2,129.99,5,247.48,Credit Card,Delivered,Website
+ORD-0477,02-11-2024,Emily Johnson,Female,Los Angeles,California,Smart Fitness Watch,Electronics,1,199.99,0,199.99,Debit Card,Completed,Mobile App
+ORD-0478,03-11-2024,Michael Williams,Male,Chicago,Illinois,Stainless Steel Water Bottle,Accessories,3,24.99,10,67.47,PayPal,Shipped,Website
+ORD-0479,04-11-2024,Sarah Brown,Female,Houston,Texas,Ergonomic Office Chair,Home & Office,1,299.99,15,254.99,Apple Pay,Processing,In-Store
+ORD-0480,05-11-2024,David Jones,Male,Phoenix,Arizona,Portable Power Bank 20000mAh,Electronics,2,49.99,0,99.98,Google Pay,Delivered,Marketplace
+ORD-0481,06-11-2024,Jennifer Garcia,Female,Philadelphia,Pennsylvania,Mechanical Gaming Keyboard,Electronics,1,149.99,20,119.99,Bank Transfer,Completed,Website
+ORD-0482,07-11-2024,Robert Miller,Male,San Antonio,Texas,Noise Cancelling Earbuds,Electronics,2,89.99,5,170.98,Credit Card,Shipped,Mobile App
+ORD-0483,08-11-2024,Lisa Davis,Female,San Diego,California,4K Webcam with Microphone,Electronics,1,129.99,0,129.99,Debit Card,Delivered,Website
+ORD-0484,09-11-2024,James Rodriguez,Male,Dallas,Texas,Smart LED Light Bulb (4-Pack),Home & Office,4,19.99,0,79.96,PayPal,Completed,In-Store
+ORD-0485,10-11-2024,Patricia Martinez,Female,San Jose,California,Yoga Mat with Carrying Strap,Fitness & Sports,1,34.99,10,31.49,Apple Pay,Shipped,Marketplace
+ORD-0486,11-11-2024,William Hernandez,Male,Austin,Texas,Insulated Travel Mug,Travel Gear,2,29.99,0,59.98,Google Pay,Completed,Website
+ORD-0487,12-11-2024,Elizabeth Lopez,Female,Jacksonville,Florida,Laptop Stand Adjustable,Home & Office,1,49.99,15,42.49,Bank Transfer,Delivered,Mobile App
+ORD-0488,13-11-2024,Richard Gonzalez,Male,Fort Worth,Texas,USB-C Hub Multiport Adapter,Electronics,2,39.99,5,75.98,Credit Card,Processing,In-Store
+ORD-0489,14-11-2024,Susan Wilson,Female,Columbus,Ohio,Wireless Charging Pad,Electronics,1,24.99,0,24.99,Debit Card,Shipped,Website
+ORD-0490,15-11-2024,Joseph Anderson,Male,Charlotte,North Carolina,Bluetooth Speaker Waterproof,Electronics,1,79.99,10,71.99,PayPal,Completed,Marketplace
+ORD-0491,16-11-2024,John Smith,Female,New York,New York,Wireless Bluetooth Headphones,Electronics,3,129.99,0,389.97,Apple Pay,Delivered,Mobile App
+ORD-0492,17-11-2024,Emily Johnson,Male,Los Angeles,California,Smart Fitness Watch,Electronics,1,199.99,25,149.99,Google Pay,Cancelled,Website
+ORD-0493,18-11-2024,Michael Williams,Female,Chicago,Illinois,Stainless Steel Water Bottle,Accessories,2,24.99,0,49.98,Bank Transfer,Refunded,In-Store
+ORD-0494,19-11-2024,Sarah Brown,Male,Houston,Texas,Ergonomic Office Chair,Home & Office,1,299.99,0,299.99,Credit Card,Delivered,Marketplace
+ORD-0495,20-11-2024,David Jones,Female,Phoenix,Arizona,Portable Power Bank 20000mAh,Electronics,1,49.99,5,47.49,Debit Card,Processing,Website
+ORD-0496,21-11-2024,Jennifer Garcia,Male,Philadelphia,Pennsylvania,Mechanical Gaming Keyboard,Electronics,2,149.99,10,269.98,PayPal,Shipped,Mobile App
+ORD-0497,22-11-2024,Robert Miller,Female,San Antonio,Texas,Noise Cancelling Earbuds,Electronics,1,89.99,0,89.99,Apple Pay,Completed,In-Store
+ORD-0498,23-11-2024,Lisa Davis,Male,San Diego,California,4K Webcam with Microphone,Electronics,1,129.99,15,110.49,Google Pay,Delivered,Website
+ORD-0499,24-11-2024,James Rodriguez,Female,Dallas,Texas,Smart LED Light Bulb (4-Pack),Home & Office,5,19.99,0,99.95,Bank Transfer,Shipped,Marketplace
+ORD-0500,25-11-2024,Patricia Martinez,Male,San Jose,California,Yoga Mat with Carrying Strap,Fitness & Sports,1,34.99,20,27.99,Credit Card,Completed,Mobile App
